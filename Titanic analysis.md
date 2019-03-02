@@ -318,7 +318,7 @@ plt.show()
 
 
 # Surviving people with regards to class, as bar graph representation. #
-### Obs.: compared to the KDE graph , the bar chart focuses only on the people who survived, therefore the impression is that there was little difference between 1st and 3rd class survival counts. In reality, given that 3rd class passengers were a much bigger group, their survival rate is much lower than presented here.###
+### Obs.: compared to the KDE graph , the bar chart focuses only on the people who survived, therefore the impression is that there was little difference between 1st and 3rd class survival counts. In reality, given that 3rd class passengers were a much bigger group, their survival rate is much lower than presented here. ###
 
 
 ```python
